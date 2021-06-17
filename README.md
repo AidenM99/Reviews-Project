@@ -22,7 +22,7 @@ the reviews or to be surprised with a random review upon clicking the correspond
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://aidenm99.github.io/Reviews-Project/
 
 ## My process
 
